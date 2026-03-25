@@ -1,5 +1,4 @@
 # DIGITAL-LITERACY-PROJECT
-# Digital Literacy Project
 
 ## Name: DIPIKA ANAND
 
